@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31960149910",
+    "project_id": "kit-store-start",
+    "storage_bucket": "kit-store-start.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31960149910:android:71b704dde5cf596e5e37b7",
+        "android_client_info": {
+          "package_name": "com.example.kit_store_start"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi52cq9DoFj9JyYWnVAvNAtKj4XNB3FaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
